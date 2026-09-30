@@ -12,3 +12,6 @@ The controls are as follows:
 - 1 clap: play/pause
 
 Because some sounds in songs can trigger the controls, it is best to wear headphones when doing this lab. I am still trying to troubleshoot how to have these sounds be detected with other noises, such as tv background noise, animals playing, etc. 
+
+View the demonstration here
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gSscKIJdu4M/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=gSscKIJdu4M))
